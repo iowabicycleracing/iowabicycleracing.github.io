@@ -7,16 +7,18 @@ title: Iowa Bicycle Racing Association
 description: Official website for all things bike racing in Iowa.
 
 # Your name to show in the footer
-author: IBRA
+author: Iowa Bicycle Racing Association
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Schedule: "schedule"
+  Results: "https://legacy.usacycling.org/results/browse.php?state=IA"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - USA Cycling: "https://usacycling.org"
+    - Join: "https://usacycling.org/memberships-new"
+    - Organizers: "https://usacycling.org/event-organizer"
+
 
 # --- Logo --- #
 
@@ -39,35 +41,16 @@ round-avatar: false
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "ibra@iowabikeracing.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  facebook: iowabicycleracing
+  twitter: iowabicycleracing
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
