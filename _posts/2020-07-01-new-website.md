@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to the new IBRA website
 subtitle: 
-tags: [cyclocross]
+tags: [general]
 comments: true
 ---
 
