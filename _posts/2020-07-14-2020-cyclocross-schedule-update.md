@@ -22,7 +22,7 @@ The latest update to this schedule was on **07-14-2020**
 |Jingle Cross	|Oct. 9-11|	-	|-	|-|
 |Twisted Cross	|Oct. 17-18|	No decision yet	|-	|-|
 |The Grand	|Oct. 24-25|	No decision yet|	August 1, 2020	|Sept. 1, 2020|
-|Spooky Cross	|Oct. 31-Nov 1|	No decision yet|	August 1, 2020	|Sept. 1, 2020|
+|Spooky Cross	|Oct. 31 - Nov 1|	No decision yet|	August 1, 2020	|Sept. 1, 2020|
 |Creekside Cross	|Nov. 7|	No decision yet	|August 1, 2020	|Oct. 1, 2020|
 |Bobbers Cross	|Nov. 8|	No decision yet|	August 1, 2020	|Oct. 1, 2020|
 |Midstate CX	|Nov. 14|	No decision yet|August 1, 2020	|Oct. 1, 2020|
