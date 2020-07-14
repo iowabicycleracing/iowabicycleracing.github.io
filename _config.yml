@@ -18,13 +18,14 @@ navbar-links:
     - USA Cycling: "https://usacycling.org"
     - Join: "https://usacycling.org/memberships-new"
     - Organizers: "https://usacycling.org/event-organizer"
+    - About: "aboutus"
 
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "http://www.iowabicycleracing.org/wp_v2/wp-content/themes/rt_ionosphere_wp/images/logo/dark/logo-icon.png"
+avatar: "assets/img/logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false

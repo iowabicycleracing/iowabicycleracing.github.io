@@ -5,6 +5,8 @@ subtitle: Find the races happening in Iowa
 ---
 	
 The embedded schedule below contains not only Iowa bicycle races, but also those in surrounding events and “regional” events. Please use the dropdown arrow in the upper right corner to turn on/off different views of the calendar. For more details or complete schedules of non-Iowa events, please visit 
+
+Are you looking for other events? Try [BikeIowa.com's Racing Events](https://www.bikeiowa.com/Portal/race)
 				
 {% raw %}
 <iframe style="border-width: 0; width: 100%;" src="https://www.google.com/calendar/embed?title=IBRA%20Calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;
