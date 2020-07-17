@@ -29,4 +29,8 @@ We will accomplish this by:
 <br/>
 
 ## Our By-Laws
-[2016-IBRA-ByLaws.pdf](/assets/pdf/2016-IBRA-ByLaws.pdf)
+[IBRA ByLaws](/assets/pdf/2016-IBRA-ByLaws.pdf) - Updated 2016
+
+## IBRA Tax Documents
+* [2019 Form 990](/assets/pdf/990-N-2019.pdf)
+* [2018 Form 990](/assets/pdf/990-N-2018.pdf)
