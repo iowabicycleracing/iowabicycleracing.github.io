@@ -27,5 +27,6 @@ The latest update to this schedule was on **07-17-2020**
 |Bobbers Cross	|Nov. 8|	As Scheduled|	August 1, 2020	|Oct. 1, 2020|
 |Midstate CX	|Nov. 14|	As Scheduled|August 1, 2020	|Oct. 1, 2020|
 |Iowa State CX	|Dec. 5|	As Scheduled|August 1, 2020	|Nov. 1, 2020|
+|Valley Cross	|TBD|	TBD ️|August 1, 2020	|Nov. 1, 2020|
 
 If you're looking for non-USAC santioned events in Iowa, please check out our friends at [BikeIowa.com](http://bikeiowa.com)
