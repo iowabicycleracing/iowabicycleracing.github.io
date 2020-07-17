@@ -11,7 +11,7 @@ IBRA has been working closely with all of our Cyclocross Race Directors and will
 We will update this schedule as regularly as we can and keep you up to date on the progress of the schedule on our Facebook page as well as here.
 
 {: .box-note}
-The latest update to this schedule was on **07-16-2020**
+The latest update to this schedule was on **07-17-2020**
 
 |Event	|Date	|Status	|Next Update	|Decision Date|
 | :------ |:--- | :--- |:--- |:--- |
