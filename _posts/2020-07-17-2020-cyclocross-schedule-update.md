@@ -19,8 +19,10 @@ The latest update to this schedule was on **07-17-2020**
 |Dirty Wooden Shoe	|Sept. 12-13|	CANCELLED|	-	|-|
 |Cornerstone Cross	|Sept. 19|	As Scheduled|	August 1, 2020|	August 1, 2020|
 |Capital City Cross	|Sept. 26-27|	CANCELLED|	-	|-|
+|Valley Cross	|Sept. 26|	As Scheduled	|August 1, 2020	|Sept. 1, 2020|
 |Jingle Cross	|Oct. 9-11|	As Scheduled	|-	|-|
 |Twisted Cross	|Oct. 17-18|	CANCELLED	|-	|-|
+|Valley Cross	|Oct. 17|	As Scheduled	|August 1, 2020	|Sept. 1, 2020|
 |The Grand	|Oct. 24-25|	CANCELLED|	-	|- |
 |Spooky Cross	|Oct. 31 - Nov 1|	As Scheduled|	August 1, 2020	|Sept. 1, 2020|
 |Creekside Cross	|Nov. 7|	As Scheduled	|August 1, 2020	|Oct. 1, 2020|
