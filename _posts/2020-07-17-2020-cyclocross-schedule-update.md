@@ -24,7 +24,7 @@ The latest update to this schedule was on **08-06-2020**
 |Twisted Cross	|Oct. 17-18|	CANCELLED	|-	|-|
 |Valley Cross	|Oct. 17|	As Scheduled	|Sept. 1, 2020	|Sept. 1, 2020|
 |The Grand	|Oct. 24-25|	CANCELLED|	-	|- |
-|Spooky Cross	|Oct. 31 - Nov 1|	As Scheduled|	Sept. 1, 2020	|Sept. 1, 2020|
+|Spooky Cross	|Oct. 31 - Nov 1|	As Scheduled|	CANCELLED	|-|
 |Creekside Cross	|Nov. 7|	As Scheduled	|Sept. 1, 2020	|Oct. 1, 2020|
 |Bobbers Cross	|Nov. 8|	As Scheduled|	Sept. 1, 2020	|Oct. 1, 2020|
 |Midstate CX	|Nov. 14|	As Scheduled|Sept. 1, 2020	|Oct. 1, 2020|
