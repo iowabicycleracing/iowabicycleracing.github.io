@@ -11,13 +11,13 @@ IBRA has been working closely with all of our Cyclocross Race Directors and will
 We will update this schedule as regularly as we can and keep you up to date on the progress of the schedule on our Facebook page as well as here.
 
 {: .box-note}
-The latest update to this schedule was on **08-28-2020**
+The latest update to this schedule was on **09-08-2020**
 
 |Event	|Date	|Status	|Next Update	|Decision Date|
 | :------ |:--- | :--- |:--- |:--- |
 |Cannonball Cross	|Sept. 5-6|	CANCELLED|	-	|-|
 |Dirty Wooden Shoe	|Sept. 12-13|	CANCELLED|	-	|-|
-|Cornerstone Cross	|Sept. 19|	As Scheduled|	As Scheduled|	As Scheduled|
+|Cornerstone Cross	|Sept. 26|	As Scheduled|	As Scheduled|	As Scheduled|
 |Capital City Cross	|Sept. 26-27|	CANCELLED|	-	|-|
 |Jingle Cross	|Oct. 9-11|	POSTPONED	|-	|-|
 |Valley Cross	|Oct. 10|	As Scheduled|As Scheduled|As Scheduled|
