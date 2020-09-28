@@ -11,7 +11,7 @@ IBRA has been working closely with all of our Cyclocross Race Directors and will
 We will update this schedule as regularly as we can and keep you up to date on the progress of the schedule on our Facebook page as well as here.
 
 {: .box-note}
-The latest update to this schedule was on **09-10-2020**
+The latest update to this schedule was on **09-28-2020**
 
 |Event	|Date	|Status	|Next Update	|Decision Date|
 | :------ |:--- | :--- |:--- |:--- |
@@ -25,10 +25,10 @@ The latest update to this schedule was on **09-10-2020**
 |Valley Cross	|Oct. 24|As Scheduled|As Scheduled|As Scheduled|
 |The Grand	|Oct. 24-25|	CANCELLED|	-	|- |
 |Spooky Cross	|Oct. 31 - Nov 1|	CANCELLED |	-	|-|
-|Creekside Cross	|Nov. 7|	As Scheduled	|Sept. 1, 2020	|Oct. 1, 2020|
-|Bobbers Cross	|Nov. 8|	As Scheduled|	Sept. 1, 2020	|Oct. 1, 2020|
-|Midstate CX	|Nov. 14|	As Scheduled|Sept. 1, 2020	|Oct. 1, 2020|
+|Creekside Cross	|Nov. 7|	CANCELLED	|-|-|
+|Bobbers Cross	|Nov. 8|	CANCELLED |-|-|
+|Midstate CX	|Nov. 14|	CANCELLED |-|-|
 |Iowa State CX	|Dec. 5|	As Scheduled|Sept. 1, 2020	|Nov. 1, 2020|
-|USA Cycling Nationals	|Dec. 8|	As Scheduled| [See USA Cycling](https://usacycling.org/events/national-championships/2020-usa-cycling-cyclocross-national-championships) | - |
+|USA Cycling Nationals	|Dec. 8|	CANCELLED | [See USA Cycling](https://usacycling.org/article/usa-cycling-announces-cancellation-of-2020-cyclocross-nationals) | - |
 
 If you're looking for non-USAC santioned events in Iowa, please check out our friends at [BikeIowa.com](http://bikeiowa.com)
