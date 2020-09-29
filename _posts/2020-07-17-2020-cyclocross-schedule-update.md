@@ -28,7 +28,7 @@ The latest update to this schedule was on **09-28-2020**
 |Creekside Cross	|Nov. 7|	CANCELLED	|-|-|
 |Bobbers Cross	|Nov. 8|	CANCELLED |-|-|
 |Midstate CX	|Nov. 14|	CANCELLED |-|-|
-|Iowa State CX	|Dec. 5|	As Scheduled|Sept. 1, 2020	|Nov. 1, 2020|
+|Iowa State CX	|Dec. 5|	CANCELLED |-|-|
 |USA Cycling Nationals	|Dec. 8|	CANCELLED | [See USA Cycling](https://usacycling.org/article/usa-cycling-announces-cancellation-of-2020-cyclocross-nationals) | - |
 
 If you're looking for non-USAC santioned events in Iowa, please check out our friends at [BikeIowa.com](http://bikeiowa.com)
