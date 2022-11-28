@@ -6,13 +6,12 @@ subtitle: Who is IBRA?
 
 ## Our Board
 
-|Who	|Year Start	|Role |
-| :------ |:--- | :--- |
-|Jacob Oyen|2020| President/USAC Liason|
-|Justin Guiter|2019| Vice President|
-|Larry Howe|2019| Treasurer|
-|Scott Robinson|2020| Secretary|
-|James Armstead|2020| |
+|Who	|Year Start	|Year End |Role |
+| :------ |:--- | :--- |  :--- |
+|Jacob Oyen|2020|2022| President/USAC Liason|
+|Larry Howe|2019|2021| Treasurer|
+|Scott Robinson|2020|2022| Secretary|
+|James Armstead|2020|2022| |
 
 <br/>
 
