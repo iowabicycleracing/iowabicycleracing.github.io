@@ -19,7 +19,7 @@ comments: false
 - 2023 Budget
 - Open Discussion
 
-Meeting Slide Deck: https://docs.google.com/presentation/d/1p3aFHynzVTGiRWd6ErsE9eDHYWlOeJW7tHBOKmVn8AE/edit?usp=sharing
+[Meeting Slide Deck]([https://pages.github.com/](https://docs.google.com/presentation/d/1p3aFHynzVTGiRWd6ErsE9eDHYWlOeJW7tHBOKmVn8AE/edit?usp=sharing)).
 
 ------
 
@@ -47,6 +47,7 @@ Meeting Slide Deck: https://docs.google.com/presentation/d/1p3aFHynzVTGiRWd6ErsE
 |Jacob Oyen - Zealous Racing|9|
 |Chris Daggs - CDM Coaching|8|
 |Noah Marcus - Zealous Racing|6|
+
 
  - Board officer selection
    - President - Jacob Oyen
