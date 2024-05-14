@@ -22,6 +22,8 @@ The IBRA board met at the Iowa Bicycle Expo in Des Moines Jan 27. 2024.
 - 2024 Budget
 - Open Discussion
 
+[2024 Annual Meeting Slide Deck](https://docs.google.com/presentation/d/1PRNKqqTmWrzX4__nqPxT_5b8JhlEs2BD4T5LkpFtdJk/edit?usp=sharing) 
+
 ------
 
 ## Regular Business
@@ -47,7 +49,7 @@ The IBRA board met at the Iowa Bicycle Expo in Des Moines Jan 27. 2024.
  - How to encourage more women and juniors to attend races
  - Race calendar
  
- ## 2024 Budget
+## 2024 Budget
  
  - Discussion on the IBRA surcharge status. Board was mixed on adding the $1/rider/day surcharge back to race directors without having a clear use case for the funds. Additional discussion was deferred until after the budget review.
  - IBRA Budget review. Board agreed to defer the budget review until the next meeting. 
