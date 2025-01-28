@@ -10,11 +10,9 @@ subtitle: Who is IBRA?
 | :------ |:--- | :--- |  :--- |
 |Jacob Oyen|2023|-| President/USAC Liason|
 |Larry Howe|2023|-| Treasurer|
-|Vance Fletcher|2023|-| Secretary|
-|Chris Daggs|2023|-| |
-|Noah Marcus|2023|-| |
+|Noah Marcus|2023|-| Secretary|
+|Wayne Fett|2024|-| |
 |Ryan Jacobsen|2023|-| |
-|Scott Robinson|2023|-| |
 
 <br/>
 
